@@ -579,7 +579,7 @@ input{
             </div>
         </div>
     </main>
-    <script src="P.js">
+    <script src="pp.js">
   
 var tablinks = document.getElementsByClassName('tab-links');
 var tabcontents = document.getElementsByClassName('tab-contents');
